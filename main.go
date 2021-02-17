@@ -1,4 +1,6 @@
 package main
+// что-то здесь прокомментируем
+
 import (
 	"fmt"
 
