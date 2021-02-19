@@ -1,5 +1,6 @@
 package main
 
+//тоже какой-то комментарий
 import (
 	"fmt"
 	"strings"
